@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "magic8ball2.0/1.0.0": {
+        "runtime": {
+          "magic8ball2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "magic8ball2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
